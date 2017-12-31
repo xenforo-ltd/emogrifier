@@ -56,6 +56,8 @@ This project adheres to [Semantic Versioning](https://semver.org/).
 ### Removed
 
 ### Fixed
+- Allow colons and semicolons in attribute value matchers
+  ([#???](https://github.com/MyIntervals/emogrifier/pull/???))
 - Allow CSS between empty `@media` rule and another `@media` rule
   ([#534](https://github.com/MyIntervals/emogrifier/pull/534))
 - Allow additional whitespace in media-query-list of disallowed `@media` rules
